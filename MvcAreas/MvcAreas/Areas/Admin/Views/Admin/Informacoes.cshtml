@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Informacoes";
+}
+
+
+<h2>Informações</h2>
+<hr />
+
+<div class="container">
+    <div class="jumbotron">
+        <h3>Informações</h3>
+        <p>
+            Esta é a área do administrador - INFORMAÇÕES
+        </p>
+    </div>
+    <p>Admin</p>
+    <p>Diego .net</p>
+
+    @Html.ActionLink("Voltar a home page", "Index", "Home", new { area = "" })|
+    @Html.ActionLink("Acessar Produtos", "Index", "Produtos", new { area = "Produtos" })|
+    @Html.ActionLink("Volar ao admin", "Index", "Admin", new { area = "Admin" })|
+
+
+</div>

@@ -1,0 +1,11 @@
+C:\Users\Diego Brito\source\repos\AvisoPaises\AvisoPaises\bin\Debug\netcoreapp2.0\AvisoPaises.deps.json
+C:\Users\Diego Brito\source\repos\AvisoPaises\AvisoPaises\bin\Debug\netcoreapp2.0\AvisoPaises.runtimeconfig.json
+C:\Users\Diego Brito\source\repos\AvisoPaises\AvisoPaises\bin\Debug\netcoreapp2.0\AvisoPaises.runtimeconfig.dev.json
+C:\Users\Diego Brito\source\repos\AvisoPaises\AvisoPaises\bin\Debug\netcoreapp2.0\AvisoPaises.dll
+C:\Users\Diego Brito\source\repos\AvisoPaises\AvisoPaises\obj\Debug\netcoreapp2.0\AvisoPaises.csprojResolveAssemblyReference.cache
+C:\Users\Diego Brito\source\repos\AvisoPaises\AvisoPaises\obj\Debug\netcoreapp2.0\AvisoPaises.csproj.CoreCompileInputs.cache
+C:\Users\Diego Brito\source\repos\AvisoPaises\AvisoPaises\obj\Debug\netcoreapp2.0\AvisoPaises.AssemblyInfoInputs.cache
+C:\Users\Diego Brito\source\repos\AvisoPaises\AvisoPaises\obj\Debug\netcoreapp2.0\AvisoPaises.AssemblyInfo.cs
+C:\Users\Diego Brito\source\repos\AvisoPaises\AvisoPaises\bin\Debug\netcoreapp2.0\AvisoPaises.pdb
+C:\Users\Diego Brito\source\repos\AvisoPaises\AvisoPaises\obj\Debug\netcoreapp2.0\AvisoPaises.dll
+C:\Users\Diego Brito\source\repos\AvisoPaises\AvisoPaises\obj\Debug\netcoreapp2.0\AvisoPaises.pdb

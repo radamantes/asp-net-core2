@@ -1,0 +1,41 @@
+﻿@model Mvc_ModelBinding.Models.Cliente
+
+@{
+    ViewData["Title"] = "ExibirDados";
+}
+
+
+@Html.LabelFor(model => model.Id)
+ <input asp-for="Id" />
+@*@Html.TextBoxFor(model => model.Id)*@
+@*@Html.DisplayFor(model => model.Id)*@
+
+<br/>
+
+@Html.LabelFor(model => model.Nome)
+<input asp-for="Nome" />
+@*@Html.TextBoxFor(model => model.Nome)*@
+
+@*@Html.EditorFor(model => model.Nome)*@
+
+<br />
+
+@Html.LabelFor(model => model.Email)
+<input asp-for="Email" />
+@*@Html.TextBoxFor(model => model.Email)*@
+
+@Html.ActionLink("Retornar","Index","Cliente")
+
+@*<h2>Exibindo Dados do Cliente</h2>
+    <hr />
+    Id:
+    <label for="Id">@Model.Id</label><br />
+
+    Nome:
+    <label for="Nome">@Model.Nome</label><br />
+
+    Email:
+    <label for="Email">@Model.Email</label><br />
+
+    <a href="/Cliente/Index">Retornar</a>*@
+
